@@ -1,4 +1,4 @@
-![gif](/fungif.gif)
+<img src="https://github.com/tejusrevi/tejusrevi/blob/master/fungif.gif" width=1080/>
 
 ### Hi there 👋. I'm Tejus
 
