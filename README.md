@@ -1,4 +1,4 @@
-<img src="/fungif.gif" alt="alt text" width="1080">
+![](/fungif.gif)
 
 ### Hi there 👋. I'm Tejus
 
