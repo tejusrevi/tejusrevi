@@ -3,9 +3,9 @@
 ### Hi there 👋. I'm Tejus
 
 I'm a programming student with a passion for developing visually appealing programs. I enjoy learning new technologies and have a love-hate realtionship with coding (Don't we all!)
-- 🌱 I’m currently exploring Data Science [@kaggle](https://www.kaggle.com/tejusrevi)
+- 🌱 I’m currently exploring Data Science <a href="https://www.kaggle.com/tejusrevi" target="_blank">@kaggle</a>    
 - 💬 Ask me about Threejs 
 - ⚡ Fun fact: I can safely land a Boeing-787 on MS flight sim
 
-🤵 [linkedin.com/tejusrevi](https://www.linkedin.com/in/tejusrevi/)  
-🌐 [tejus-revi.web.app](https://tejus-revi.web.app/)
+🤵 <a href="https://www.linkedin.com/in/tejusrevi/" target="_blank">linkedin.com/tejusrevi</a>  
+🌐 <a href="https://tejus-revi.web.app/" target="_blank">tejus-revi.web.app</a> 
