@@ -5,5 +5,4 @@ I'm a programming student with a passion for front-end development. I enjoy lear
 - 💬 Ask me about 3D graphics
 - ⚡ Fun fact: I can safely land a Boeing-787 on MS flight sim
 
-<a href="https://www.linkedin.com/in/tejusrevi/" target="_blank">Linkedin</a>  
-<a href="https://tejus-revi.web.app/" target="_blank">Portfolio</a> 
+<a href="https://www.linkedin.com/in/tejusrevi/" target="_blank"><img src="https://img.icons8.com/android/24/000000/linkedin.png" width="25"/></a>  <a href="https://tejus-revi.web.app/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/globe.png" width="25"/></a> 
