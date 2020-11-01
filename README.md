@@ -1,4 +1,4 @@
-<h2>
+<h2 align="center">
 Hi there 👋. I'm Tejus
 </h2>
 I'm a programming student with a passion for front-end development. I enjoy learning new technologies and have a love-hate realtionship with coding (Don't we all!)
